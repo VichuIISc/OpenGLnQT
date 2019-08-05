@@ -5,4 +5,4 @@ Integrating OpenGL and Qt5:
   2) OpenGL is used for rendering (not QtOpenGL)
   
 Output Image:
-[](images/output.png)
+![](images/output.png)
