@@ -6,3 +6,7 @@ Integrating OpenGL and Qt5:
   
 Output Image:
 ![](images/output.png)
+
+References:
+1) https://doc.qt.io/qt-5/qtwidgets-mainwindows-application-example.html
+2) https://doc.qt.io/qt-5/qtopengl-hellogl2-example.html#
